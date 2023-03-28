@@ -126,7 +126,7 @@ input[type="radio"]:checked {
 }
 
 input[type="radio"]:checked::before {
-  content: "\2716"; /* agregar una equis */
+  content: "\2714"; /* agregar una equis */
   display: block;
   text-align: center;
   font-size: 30px;
