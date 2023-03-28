@@ -97,7 +97,7 @@ input[type="checkbox"]:checked {
 }
 
 input[type="checkbox"]:checked::before {
-  content: "\2716"; /* agregar una equis */
+  content: "\2714"; /* agregar una equis */
   display: block;
   text-align: center;
   font-size: 25px;
